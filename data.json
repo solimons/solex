@@ -1,0 +1,16 @@
+{
+    "62": {
+        "value": 100,
+        "name": "Bucket",
+        "prev": [
+            100
+        ]
+    },
+    "22": {
+        "value": 300,
+        "name": "Purple Shaggy",
+        "prev": [
+            300
+        ]
+    }
+}
